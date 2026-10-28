@@ -26,6 +26,7 @@ lib/new_relic/build.rb
 .tm_properties
 .bundle
 .yardoc
+.vscode/
 artifacts/
 test/performance/log/
 test/performance/script/log/
@@ -47,4 +48,3 @@ yarn-error.log
 test/perfverse/reports/inputs
 test/perfverse/reports/output
 test/perfverse/traffic/output
-config.bat
